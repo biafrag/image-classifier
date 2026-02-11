@@ -9,5 +9,6 @@ My image classifier first toy project
 
 # Project Demonstration 1st version
 
-![Demonstração da aplicação](media/gifClassifier1Version.gif)
+
+![Demonstration](media/gifClassifier1Version.gif)
 
